@@ -1,0 +1,7 @@
+{
+  "name": "Atmosphere AI",
+  "description": "A sophisticated, high-performance weather application powered by Gemini AI. It provides real-time local weather, 5-day forecasts, and personalized AI-driven lifestyle recommendations based on current atmospheric conditions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
